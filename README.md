@@ -10,8 +10,8 @@
 ### :octocat: About me 
 - 🎖 Completed 3 internships, was awarded Programmer of the Year, and PSITE Academic Excellence in University.
 - 🔭 Currently working on something cool.
-- 🌱 Learning `VueJs`, `Computer Vision`, `Japanese`.
-- 👯 Let's collaborate on create cool `websites`.
+- 🌱 Learning Web Development.
+- 👯 Let's collaborate on create cool `Web Applications`.
 - 🤔 Need some help with `technical interview`.
 - 💬 Ask me about anything really.
 - ⚡ Fun fact: I have a `1 Star🌟 Certificate for Kayaking` 🤔
