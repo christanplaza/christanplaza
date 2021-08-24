@@ -4,17 +4,17 @@
 
 
 <div align="center">
-<h3 align="center"> Christan Shane Plaza | 💻 Software Engineer | 🌏 Cebu, Philippines </h3>
+<h3 align="center"> Christan Shane Plaza | 💻 Software Engineer | 🌏 Bacolod City, Philippines </h3>
 </div>
 
 ### :octocat: About me 
 - 🎖 Completed 3 internships, was awarded Programmer of the Year, and PSITE Academic Excellence in University.
-- 🔭 Currently working on something cool.
+- 🔭 Currently working on learning Game Development and Machine Learning
 - 🌱 Learning Web Development.
 - 👯 Let's collaborate on create cool `Web Applications`.
-- 🤔 Need some help with `technical interview`.
+- 🤔 Need some help with `Machine Learning`.
 - 💬 Ask me about anything really.
-- ⚡ Fun fact: I have a `1 Star🌟 Certificate for Kayaking` 🤔
+- ⚡ Fun fact: I have a `1 Star🌟 Certificate for Kayak` 🤔
 - 💭 Let's get to know each other 🌟
 
 <span align="center">
