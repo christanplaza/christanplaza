@@ -10,11 +10,11 @@
 ### :octocat: About me 
 - 🎖 Completed 3 internships, was awarded Programmer of the Year, and PSITE Academic Excellence in University.
 - 🔭 Currently working on learning Game Development and Machine Learning
-- 🌱 Learning PWA and NFTs
-- 👯 Let's collaborate on create cool `Web Applications`.
+- 🌱 Learning Hybrid Mobile Application Development
+- 👯 Let's collaborate on create cool `Mobile Apps`.
 - 🤔 Need some help with `Machine Learning`.
 - 💬 Ask me about anything really.
-- ⚡ Fun fact: I have a `1 Star🌟 Certificate for Kayak` 🤔
+- ⚡ Fun fact: I have a `1 Star🌟 Certification for Kayak` 🤔
 - 💭 Let's get to know each other 🌟
 
 <span align="center">
