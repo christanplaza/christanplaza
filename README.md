@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<h3 align="center"> Christan Shane Plaza | 💻 Software Engineer | 🌏 Iloilo City, Philippines </h3>
+<h3 align="center"> Christan Shane Plaza | 💻 Software Engineer / Web Developer | 🌏 Iloilo City, Philippines </h3>
 </div>
 
 ### :octocat: About me 
